@@ -3,7 +3,7 @@
 Video writing from live feed using OpenCv and Python
 
 ## FaceHighlights.py:
-Saving faces and highlights from a live feed using face_recognition library
+Saving faces and and frames from a live feed in different folders
 
 ## Face_off.py
 Make sure you have 4 folders in your directory<br>
