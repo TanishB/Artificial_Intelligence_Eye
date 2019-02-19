@@ -15,5 +15,5 @@ When you run this file every new face encountered within 1 minute will be saved 
 Along with Faces and Vids, you should also have these two folders in your directory<br>
 -> Tracker<br>
 -> Result<br>
-This file runs under a infinite loop. It helps you to find out the video of a particular face. What you need to do is just run this file and then go to your directory copy a face image and move to Tracker folder and then open the results folder to where you'll find the desired video.
+This file runs under a infinite loop. It helps you to find out the video of a particular face. What you need to do is just run this file, after that go to your directory-> copy a face image-> move to Tracker folder and then open the results folder where you'll find the desired video.
 
